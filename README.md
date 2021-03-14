@@ -27,4 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=macaws&show_icons=true&locale=en" alt="macaws" /></p>
 
-❤️ Special thanks to rahuldkjain for this awesome readme [https://github.com/rahuldkjain/github-profile-readme-generator](rahuldkjain/github-profile-readme-generator)
+❤️ Special thanks to rahuldkjain for this awesome readme [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+
