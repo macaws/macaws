@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Typescript or Node**
 
-- 📫 How to reach me **mason@andromeda.media**
+- 📫 You can email me at **mason@andromeda.media**
 
 - ❤️ My idol is **Tim Sweeney**
 
