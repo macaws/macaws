@@ -6,7 +6,7 @@
 -   🔭 I’m currently working on **Vented One**, a custom hosting platform
 
 -   🔗 You can visit our website [vented.io](https://vented.io)
--   
+
 -   🌱 I’m currently learning **Rust**
 
 -   💬 Ask me about **Laravel**
