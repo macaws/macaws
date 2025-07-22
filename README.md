@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=macaws&label=Profile%20views&color=0e75b6&style=flat" alt="macaws" /> </p>
 
--   🔭 I’m currently working on **Foundry**, a ???
+-   🔭 I’m currently working on **[Modmon](https://modmon.dev/docs/tutorial/intro)**, a self-hosted GitOps deployment platform
 
--   🔗 You can visit our website [vented.io](https://vented.io)
+-   🤵‍♂️ Currently leading the Professional Solutions team at [Edge](https://edge.network)
 
--   🌱 I’m currently learning **Rust**
+-   🌱 I’m currently learning **Go** & **Rust**
 
 -   💬 Ask me about **Laravel**
 
